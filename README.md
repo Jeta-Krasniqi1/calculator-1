@@ -5,7 +5,7 @@ This is a simple command-line calculator program written in Java. It allows user
 
 ## Features
 - Supports four basic operations:
-  - Addition (`+`)
+  - Addition (`+`)    
   - Subtraction (`-`)
   - Multiplication (`*`)
   - Division (`/`)
