@@ -4,7 +4,7 @@ public class Calculator {
 
 	public static void main(String[] args) {
 		int operator , n1, n2;
-		System.out.println(" 1 - Add \n 2 - Subtract \n 3 - Multiply \n 4- Divide ");
+		System.out.println(" 1 - Add \n 2 - Subtract \n 3 - Multiply \n 4 - Divide ");
 		System.out.println("Choose Operator: ");
 		Scanner sc = new Scanner(System.in);
 		operator =  sc.nextInt();
@@ -26,7 +26,12 @@ public class Calculator {
 			result = n1 * n2;
 			break;
 		case 4: 
+			if (n2 == 0) {
+			    System.out.println("Division by zero is not allowed.");
+			}
+			else { 
 			result = n1/n2;
+			}
 			break;
 			
 	    default:
