@@ -46,6 +46,6 @@ The result is: 8
 - Provide a GUI version using Java Swing or JavaFX
 
 ## Author
-Developed by [Your Name]
+Developed by Jeta Krasniqi
 
 
