@@ -3,7 +3,7 @@
 ## Overview
 This is a simple command-line calculator program written in Java. It allows users to perform basic arithmetic operations such as addition, subtraction, multiplication, and division.
                                       
-## Features                                                                             
+## Features                                                                                                       
 - Supports four basic operations:
   - Addition (`+`)    
   - Subtraction (`-`)
