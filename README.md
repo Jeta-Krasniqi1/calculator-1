@@ -30,10 +30,10 @@ This is a simple command-line calculator program written in Java. It allows user
 2 - Subtract
 3 - Multiply
 4 - Divide
-Choose Operator: 1
+Choose Operator: 2
 Enter first number: 5
 Enter second number: 3
-The result is: 8
+The result is: 2
 ```
 
 ## Requirements
